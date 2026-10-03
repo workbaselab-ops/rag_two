@@ -1,0 +1,22 @@
+[시험]
+
+data/생성형_AI윤리_가이드북.pdf 문서를 이용하여
+질문에 답변할 수 있는 RAG 시스템을 구현하시오.
+
+조건
+
+1. PDF Loader 사용
+2. 문서 분할
+3. Embedding 생성
+4. VectorStore 생성
+5. Retriever 생성
+6. Prompt 작성
+7. LLM 연결
+8. RAG Chain 구성
+9. 주어진 질문에 답변
+10. requirments.txt 생성
+11. 결과화면.png
+
+실행
+uv run streamlit run app.py
+python.exe -m streamlit run app.py

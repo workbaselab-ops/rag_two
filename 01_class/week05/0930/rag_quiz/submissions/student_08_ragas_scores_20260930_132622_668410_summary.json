@@ -1,0 +1,18 @@
+{
+  "student_id": "student_08",
+  "evaluated_at": "2026-09-30T04:26:22.671464+00:00",
+  "successful_questions": 3,
+  "failed_questions": 0,
+  "metric_weights": {
+    "context_precision": 0.3,
+    "faithfulness": 0.4,
+    "answer_relevancy": 0.3
+  },
+  "averages": {
+    "context_precision": 0.8796,
+    "faithfulness": 0.8164,
+    "answer_relevancy": 0.5625,
+    "ragas_score": 75.9233
+  },
+  "failures": []
+}

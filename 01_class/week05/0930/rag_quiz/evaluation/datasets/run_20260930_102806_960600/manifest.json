@@ -1,0 +1,332 @@
+{
+  "created_at": "2026-09-30T10:28:07.015517+09:00",
+  "source_pdf": "생성형_AI윤리_가이드북_RAG시험용_30쪽.pdf",
+  "student_count": 23,
+  "questions_per_student": 3,
+  "total_unique_questions": 69,
+  "include_answers_in_student_files": true,
+  "distribution": [
+    {
+      "student_id": "student_01",
+      "file": "students/student_01_questions.json",
+      "question_ids": [
+        "q0003",
+        "q0054",
+        "q0039"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_02",
+      "file": "students/student_02_questions.json",
+      "question_ids": [
+        "q0002",
+        "q0066",
+        "q0033"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_03",
+      "file": "students/student_03_questions.json",
+      "question_ids": [
+        "q0057",
+        "q0022",
+        "q0029"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_04",
+      "file": "students/student_04_questions.json",
+      "question_ids": [
+        "q0006",
+        "q0044",
+        "q0049"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_05",
+      "file": "students/student_05_questions.json",
+      "question_ids": [
+        "q0053",
+        "q0004",
+        "q0037"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_06",
+      "file": "students/student_06_questions.json",
+      "question_ids": [
+        "q0060",
+        "q0030",
+        "q0011"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_07",
+      "file": "students/student_07_questions.json",
+      "question_ids": [
+        "q0065",
+        "q0042",
+        "q0009"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_08",
+      "file": "students/student_08_questions.json",
+      "question_ids": [
+        "q0023",
+        "q0056",
+        "q0043"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_09",
+      "file": "students/student_09_questions.json",
+      "question_ids": [
+        "q0027",
+        "q0007",
+        "q0069"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_10",
+      "file": "students/student_10_questions.json",
+      "question_ids": [
+        "q0061",
+        "q0041",
+        "q0018"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_11",
+      "file": "students/student_11_questions.json",
+      "question_ids": [
+        "q0050",
+        "q0035",
+        "q0020"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_12",
+      "file": "students/student_12_questions.json",
+      "question_ids": [
+        "q0068",
+        "q0005",
+        "q0038"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_13",
+      "file": "students/student_13_questions.json",
+      "question_ids": [
+        "q0040",
+        "q0064",
+        "q0012"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_14",
+      "file": "students/student_14_questions.json",
+      "question_ids": [
+        "q0028",
+        "q0019",
+        "q0047"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_15",
+      "file": "students/student_15_questions.json",
+      "question_ids": [
+        "q0032",
+        "q0016",
+        "q0058"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_16",
+      "file": "students/student_16_questions.json",
+      "question_ids": [
+        "q0001",
+        "q0063",
+        "q0024"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_17",
+      "file": "students/student_17_questions.json",
+      "question_ids": [
+        "q0014",
+        "q0055",
+        "q0031"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_18",
+      "file": "students/student_18_questions.json",
+      "question_ids": [
+        "q0062",
+        "q0025",
+        "q0017"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_19",
+      "file": "students/student_19_questions.json",
+      "question_ids": [
+        "q0067",
+        "q0010",
+        "q0045"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_20",
+      "file": "students/student_20_questions.json",
+      "question_ids": [
+        "q0008",
+        "q0046",
+        "q0059"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_21",
+      "file": "students/student_21_questions.json",
+      "question_ids": [
+        "q0021",
+        "q0034",
+        "q0048"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_22",
+      "file": "students/student_22_questions.json",
+      "question_ids": [
+        "q0052",
+        "q0013",
+        "q0036"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    },
+    {
+      "student_id": "student_23",
+      "file": "students/student_23_questions.json",
+      "question_ids": [
+        "q0026",
+        "q0015",
+        "q0051"
+      ],
+      "difficulty_counts": {
+        "하": 1,
+        "중": 1,
+        "상": 1
+      }
+    }
+  ]
+}

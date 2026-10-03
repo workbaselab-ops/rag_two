@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+langchain 
+langchain-openai 
+langchain-community
+streamlit
+fastapi
+datasets
+ragas
